@@ -1,12 +1,13 @@
 ### Hi everybody!! Tudo 'oráiti'?! Eu sou Patrick França. 🙋‍♂️
-Apaixonado por tecnologia e trilhando um caminho em desenvolvimento Front-end uma linha por dia!!! 💻
+Apaixonado por tecnologia!<br/>
+Trilhando um caminho em desenvolvimento FrontEnd, uma linha por dia!!! 💻
 ## Onde me encontrar
 [![Codepen](https://img.shields.io/badge/Codepen-81d4fa?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/patnca) [![Github](https://img.shields.io/badge/GitHub-81d4fa?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/patnca) [![Linkedin](https://img.shields.io/badge/LinkedIn-81d4fa?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://linkedin.com/in/patrick-franca)
 
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patnca&count_private=true&show_icons=true&bg_color=81d4fa&title_color=ffffff&icon_color=ffffff)](https://github.com/patnca/github-readme-stats)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patnca&count_private=true&show_icons=true&bg_color=81d4fa&title_color=ffffff&icon_color=ffffff)](https://github.com/patnca/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patnca&layout=compact)](https://github.com/patnca/github-readme-stats)
 
-## Skills (...e aumentando!)
+## Skills
 
 <div style="display: inline-block"><br/>
 	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-81D4FA?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,5 +16,5 @@ Apaixonado por tecnologia e trilhando um caminho em desenvolvimento Front-end um
 	<img alt="" src="" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patnca)](https://github.com/patnca/github-readme-stats)
+
 
