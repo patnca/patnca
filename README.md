@@ -1,4 +1,5 @@
-### Hi everybody!! Tudo 'oráiti'?! Eu sou Patrick França. 🙋‍♂️
+![bgDev](background.jpg)
+### Salve!! Tudo 'oráiti'?! Eu sou Patrick França. 🙋‍♂️
 Apaixonado por tecnologia!<br/>
 Trilhando um caminho em desenvolvimento FrontEnd, uma linha por dia!!! 💻
 ## Onde me encontrar
